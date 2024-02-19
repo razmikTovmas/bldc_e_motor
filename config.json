@@ -1,0 +1,14 @@
+{
+    "num_of_legs" : 9,
+    "stator_radius" : 30.0,
+    "stator_height" : 30.0,
+    "thickness" : 5.0,
+    "bearing_radius_outer" : 7.0,
+    "bearing_radius_inner" : 3.0,
+    "bearing_height" : 10.0,
+    "bearing_wall_thickness" : 1.0,
+    "number_of_holes" : 0,
+    "holes_radius" : 3.0,
+    "hole_depth" : 20.0,
+    "stator_path" : "stator.stl"
+}
