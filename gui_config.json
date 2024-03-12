@@ -1,0 +1,26 @@
+{
+  "title" : "BLDC Generator",
+  "general_inputs" : [
+    {
+      "label" : "Stator Radius",
+      "type" : "Float",
+      "low" : "0.0",
+      "high" : "50.0",
+      "key" : "stator_radius"
+    },
+    {
+      "label" : "Stator Height",
+      "type" : "Float",
+      "low" : "1.0",
+      "high" : "50.0",
+      "key" : "stator_height"
+    },
+    {
+      "label" : "Number of Legs",
+      "type" : "Int",
+      "low" : "0",
+      "high" : "50",
+      "key" : "num_of_legs"
+    }
+  ]
+}
