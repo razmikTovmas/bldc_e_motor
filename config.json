@@ -3,6 +3,7 @@
     "stator_radius" : 30.0,
     "stator_height" : 30.0,
     "thickness" : 5.0,
+    "rotor_thickness" : 3.0,
     "bearing_radius_outer" : 7.0,
     "bearing_radius_inner" : 3.0,
     "bearing_height" : 10.0,
@@ -10,5 +11,10 @@
     "number_of_holes" : 0,
     "holes_radius" : 3.0,
     "hole_depth" : 20.0,
-    "stator_path" : "stator.stl"
+    "num_of_magnets" : 12,
+    "magnet_height" : 25.0,
+    "magnet_width" : 10.0,
+    "magnet_thickness" : 1.0,
+    "stator_path" : "stator.stl",
+    "rotor_path" : "rotor.stl"
 }
