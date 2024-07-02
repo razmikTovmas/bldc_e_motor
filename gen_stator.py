@@ -126,7 +126,7 @@ def main():
     number_of_holes = config['number_of_holes']
     holes_radius = config['holes_radius']
     hole_depth = config['hole_depth']
-    file_name = config['stator_path']
+    file_name = 'stator.stl'
 
     create_stator(num_of_legs,
                   radius,

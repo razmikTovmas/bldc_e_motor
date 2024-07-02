@@ -141,7 +141,7 @@ def main():
     magnet_height = config['magnet_height']
     magnet_width = config['magnet_width']
     magnet_thickness = config['magnet_thickness']
-    file_name = config['rotor_path']
+    file_name = 'rotor.stl'
 
     create_rotor(stator_radius + 0.5, stator_height + 0.5, rotor_thickness,
                  bearing_radius_inner, num_of_magnets, magnet_height,

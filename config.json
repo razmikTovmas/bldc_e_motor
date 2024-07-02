@@ -14,7 +14,5 @@
     "num_of_magnets" : 12,
     "magnet_height" : 25.0,
     "magnet_width" : 10.0,
-    "magnet_thickness" : 1.0,
-    "stator_path" : "stator.stl",
-    "rotor_path" : "rotor.stl"
+    "magnet_thickness" : 1.0
 }
